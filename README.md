@@ -17,7 +17,7 @@ Aplikasi Absensi Karyawan berbasis web yang digunakan untuk mencatat data karyaw
 - **Laporan Absensi**
   - Laporan absensi per karyawan.
   - Laporan absensi per periode (harian / bulanan).
-  - Cetak / download laporan (jika diaktifkan di aplikasi).
+  - Cetak / download laporan.
 
 - **Autentikasi**
   - Halaman login dan logout untuk admin / petugas.
